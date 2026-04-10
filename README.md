@@ -1,5 +1,3 @@
-# Node_Js_server_assignment_6
-
 # Node.js Simple Web Server (Laundry Service Website)
 
 This assignment is a simple Node.js web server built using the native `http` module.
@@ -31,3 +29,12 @@ node index.js
 ## 3. Open in browser
 
 http://localhost:3000
+
+## 4. Screenshort create image
+
+## open routes image folder
+
+- HomePage,
+- AboutPage,
+- ontactPage,
+- 404-page
